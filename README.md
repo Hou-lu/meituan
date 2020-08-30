@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 # meituan-app
-=======
-# mt-app
->>>>>>> ee51820065e469bf54095269b404472b8771402e
 
 > A Vue.js project
 
